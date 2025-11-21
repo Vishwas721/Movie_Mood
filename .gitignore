@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Machine Learning artifacts
+ml_development/model_artifacts/*.pkl
+ml_development/model_artifacts/*.joblib
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Dataset (large files)
+ml_development/IMDB_Dataset.csv
+
+# Node.js / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Images (optional - uncomment if you don't want to track downloaded images)
+# frontend/public/images/posters/*.jpg
+# frontend/public/images/posters/*.png
+# frontend/public/images/backgrounds/*.jpg
+# frontend/public/images/backgrounds/*.png
