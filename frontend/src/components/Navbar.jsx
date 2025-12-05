@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="nav-brand">🎬 CineScope AI</div>
+      <div className="nav-brand">🎬 Movie Mood</div>
       <div className="nav-links">
         <Link to="/">Home</Link>
         <Link to="/analyze">Analyze</Link>

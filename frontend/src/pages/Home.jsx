@@ -10,7 +10,7 @@ function Home() {
     { id: 1, title: 'The Shawshank Redemption', rating: '⭐ 9.3', poster: '/images/posters/shawshank.jpg' },
     { id: 2, title: 'The Dark Knight', rating: '⭐ 9.0', poster: '/images/posters/dark-knight.jpg' },
     { id: 3, title: 'Inception', rating: '⭐ 8.8', poster: '/images/posters/inception.jpg' },
-    { id: 4, title: 'Pulp Fiction', rating: '⭐ 8.9', poster: '/images/posters/pulp-fiction.jpg' },
+    { id: 4, title: 'Kantara', rating: '⭐ 8.9', poster: '/images/posters/pulp-fiction.jpg' },
     { id: 5, title: 'Forrest Gump', rating: '⭐ 8.8', poster: '/images/posters/forrest-gump.jpg' },
     { id: 6, title: 'The Matrix', rating: '⭐ 8.7', poster: '/images/posters/matrix.jpg' },
   ];
